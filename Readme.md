@@ -4,7 +4,9 @@
 
 Submitted by: **Dang Khoi Nguyen**
 
-Time spent: **X** hours spent in total
+Time spent: **72** hours spent in total
+**24** hours spent in code
+**48** hours spent in find out how to use github
 
 ## User Stories
 
